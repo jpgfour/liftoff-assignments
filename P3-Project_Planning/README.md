@@ -11,11 +11,11 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 <ul>
-<li><a href="/wireframe/1-login.jpg">Login</a></li>
-<li><a href="/wireframe/2-booksearch.jpg">Book Search</a></li>
-<li><a href="/wireframe/3-logging.jpg">Book Logging</a></li>
-<li><a href="/wireframe/4-singlebookhistory.jpg">Single Book Log History</a></li>
-<li><a href="/wireframe/5-totallog.jpg">Total Reading Log History</a></li>
+<li><a href="https://raw.githubusercontent.com/jpgfour/liftoff-assignments/master/P3-Project_Planning/wireframe/1-login.jpg">Login</a></li>
+<li><a href="https://raw.githubusercontent.com/jpgfour/liftoff-assignments/master/P3-Project_Planning/wireframe/2-booksearch.jpg">Book Search</a></li>
+<li><a href="https://raw.githubusercontent.com/jpgfour/liftoff-assignments/master/P3-Project_Planning/wireframe/3-logging.jpg">Book Logging</a></li>
+<li><a href="https://raw.githubusercontent.com/jpgfour/liftoff-assignments/master/P3-Project_Planning/wireframe/4-singlebookhistory.jpg">Single Book Log History</a></li>
+<li><a href="https://raw.githubusercontent.com/jpgfour/liftoff-assignments/master/P3-Project_Planning/wireframe/5-totallog.jpg">Total Reading Log History</a></li>
 
 
 </ul>
@@ -30,3 +30,5 @@ Include a link to your public Trello board. Be sure you have user stories added 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+https://github.com/jpgfour/liftoff-assignments
