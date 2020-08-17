@@ -8,9 +8,13 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+[jpgfour github account](https://github.com/jpgfour)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+
+[Jeremy Grise linkedin account](https://www.linkedin.com/in/jeremy-grise-stl-regops/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
