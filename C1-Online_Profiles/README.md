@@ -21,4 +21,6 @@ You will need to upload a .PDF of your resume to this repo, or connect with your
 
 [draft LC template resume](https://github.com/jpgfour/liftoff-assignments/blob/master/JPG%20LC%20RESUME%20FROM%20NE_ND%20TEMPLATE.pdf)
 
+[January 2021 Current LC Resume](https://github.com/jpgfour/liftoff-assignments/blob/master/Jeremy%20Grise%20SE%Resume.pdf)
+
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
